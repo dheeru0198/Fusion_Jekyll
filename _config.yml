@@ -2,5 +2,4 @@ auto: true
 markdown: rdiscount
 pygments: true
 permalink: none
-rdiscount
-  extensions: [smart]
+rdiscount extensions: [smart]

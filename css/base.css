@@ -410,3 +410,13 @@
     .highlighted {
         background-color: #FBE54E;
     }
+    span.posts {
+        margin-right: 5px;
+    }
+    a.posts {
+        margin-left: 5px;
+        text-decoration: none;
+    }
+    ul.posts h2 {
+        margin-bottom: 20px;
+    } 
